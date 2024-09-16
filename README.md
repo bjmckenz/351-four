@@ -53,9 +53,11 @@ Then it's cache-ville! Please don't hesitate to ask on Discord if you are stuck 
 
 # Notes
 
-* This is for your job!
+* This is for your job! ***Professional!***
 
 *  You choose the file name(s). Write a Makefile.
+
+*  Create a ```.gitignore``` file to skip your executable name.
 
 *  I did not supply any tests.
 
